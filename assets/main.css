@@ -484,7 +484,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text01 {
-	color: #2F2E3B;
+	color: #000000;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.75em;
 	line-height: 1.375;
@@ -496,7 +496,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text02 {
-	color: #2F2E3B;
+	color: #000000;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1em;
 	line-height: 1.625;
@@ -592,7 +592,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #icons01 .n01 {
-	background-color: #E07070;
+	background-color: #4875B4;
 }
 
 #icons01 .n01 svg {
@@ -600,7 +600,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #icons01 .n01:hover {
-	background-color: #F08989;
+	background-color: #5486CC;
 }
 
 #icons01 .n02 {
